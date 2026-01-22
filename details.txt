@@ -16,3 +16,24 @@ To address all issues (including breaking changes), run:
 
 Run `npm audit` for details.
 
+--------------
+
+npm run start:dev
+
+--------------
+
+$ nest generate module messages
+$ nest generate controller messages/messages --flat
+--------------
+
+npm install class-validator class-transformer
+
+--------------
+
+--------------
+
+--------------
+
+--------------
+
+--------------
