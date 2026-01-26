@@ -30,8 +30,9 @@ npm install class-validator class-transformer
 
 --------------
 
+Open SQLite - View --> Command pallet 
 --------------
-
+npm install cookie-session @types/cookie-session
 --------------
 
 --------------
