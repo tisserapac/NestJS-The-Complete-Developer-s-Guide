@@ -20,7 +20,7 @@ Content-Type: application/json
 GET http://localhost:3000/auth/whoami
 
 
-### Find all users
+### Signout
 POST http://localhost:3000/auth/signout
 
 ### Find a user with a given ID
