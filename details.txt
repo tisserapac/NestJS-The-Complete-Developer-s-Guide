@@ -19,7 +19,7 @@ Run `npm audit` for details.
 --------------
 
 npm run start:dev
-
+npm run test:watch
 --------------
 
 $ nest generate module messages
