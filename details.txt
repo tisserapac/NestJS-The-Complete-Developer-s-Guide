@@ -20,6 +20,8 @@ Run `npm audit` for details.
 
 npm run start:dev
 npm run test:watch
+
+npm run test:e2e
 --------------
 
 $ nest generate module messages
@@ -33,6 +35,19 @@ npm install class-validator class-transformer
 Open SQLite - View --> Command pallet 
 --------------
 npm install cookie-session @types/cookie-session
+--------------
+npm install @nestjs/config
+npm install cross-env
+--------------
+
+--------------
+
+--------------
+
+--------------
+
+--------------
+
 --------------
 
 --------------
