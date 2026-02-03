@@ -6,7 +6,6 @@ import {
 import { UsersService } from './users.service';
 import { randomBytes, scrypt as _scrypt } from 'crypto';
 import { promisify } from 'util';
-import { Not } from 'typeorm';
 
 const scrypt = promisify(_scrypt);
 

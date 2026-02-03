@@ -13,11 +13,17 @@ Content-Type: application/json
 }
 
 ### Approve a report
-PATCH http://localhost:3000/reports/1
+PATCH http://localhost:3000/reports/10
 Content-Type: application/json
 
 {
-    "approved": true
+    "approved": false
 }
+
+### Get an estimate for an exsiting report
+GET http://localhost:3000/reports?make=toyota&model=camry&year=2020&mileage=10000&lat=0&lng=0
+
+
+
 
 
